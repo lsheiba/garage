@@ -1,0 +1,5 @@
+- Account: local
+  AutoDeploy: false
+  Name: local
+  Provider: kubernetes
+  Src: local.yaml
