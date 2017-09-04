@@ -1,5 +1,5 @@
-- Account: local
+- Account: garage
   AutoDeploy: false
-  Name: local
+  Name: garage
   Provider: kubernetes
   Src: local.yaml
