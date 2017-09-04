@@ -2,4 +2,4 @@
   AutoDeploy: false
   Name: garage
   Provider: kubernetes
-  Src: local.yaml
+  Src: garage.yaml
